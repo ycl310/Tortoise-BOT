@@ -2,6 +2,8 @@ import os
 import logging
 from sys import stdout
 
+# hi
+
 from dotenv import load_dotenv
 
 from bot.bot import Bot
